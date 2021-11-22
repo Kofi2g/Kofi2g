@@ -1,4 +1,4 @@
-### Welcome to my profile :first_quarter_moon: [Website](https://kofiscloud.wordpress.com/)
+### Welcome to my profile :first_quarter_moon: [Website](https://kofiscloud.wordpress.com/) 🌓 [Linkdin](https://www.linkedin.com/in/kofi/)
 I am from London and I am currently studying and working to work in the cloud.\
 To achieve this, I am learning and doing practicals covering:
 
