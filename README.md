@@ -10,9 +10,9 @@ Here you will find me working on different projects covering:
 ---
 
 <p float="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="65" />
+<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="65" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="80" /> 
-  <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" width="70" />
+  <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" width="70" /> -->
   <img src="https://thegeeksarena.com/version/2020/06/front-end-technologies.png"
 </p>
 
