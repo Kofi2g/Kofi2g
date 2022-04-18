@@ -1,5 +1,5 @@
 ### Welcome to my profile :first_quarter_moon: [Website](https://kofiscloud.wordpress.com/) 🌓 [Linkdin](https://www.linkedin.com/in/kofi/)
-I am from London and I am currently studying and working to become a developer.\
+Greetings my name is Kofi, I am from London and I am currently studying and working to become a developer.\
 Here you will find me working on different projects covering:
 
 
@@ -13,7 +13,7 @@ Here you will find me working on different projects covering:
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="65" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="80" /> 
   <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" width="70" /> -->
-  <img src="https://thegeeksarena.com/version/2020/06/front-end-technologies.png"
+  <img src="https://thegeeksarena.com/version/2020/06/front-end-technologies.png" width="500px"
 </p>
 
 <p align="right">
