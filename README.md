@@ -1,11 +1,11 @@
 ### Welcome to my profile :first_quarter_moon: [Website](https://kofiscloud.wordpress.com/) 🌓 [Linkdin](https://www.linkedin.com/in/kofi/)
-I am from London and I am currently studying and working to work in the cloud.\
-To achieve this, I am learning and doing practicals covering:
+I am from London and I am currently studying and working to become a developer.\
+Here you will find me working on different projects covering:
 
 
-- Linux/Networking
-- Python
-- Cloud technologies
+- Javacript
+- HTML
+- CSS
 
 ---
 
@@ -13,6 +13,7 @@ To achieve this, I am learning and doing practicals covering:
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="65" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="80" /> 
   <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" width="70" />
+  <img src="https://thegeeksarena.com/version/2020/06/front-end-technologies.png"
 </p>
 
 <p align="right">
