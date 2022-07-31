@@ -1,8 +1,10 @@
-### Welcome to my profile :first_quarter_moon: [Website](https://kofiscloud.wordpress.com/) 🌓 [Linkdin](https://www.linkedin.com/in/kofi/)
+### Welcome to my profile :first_quarter_moon: [Website](https://kofib.netlify.app/) 🌓 [Linkdin](https://www.linkedin.com/in/kofi/)
 Greetings my name is Kofi, I am from London and I am currently studying and working to become a developer.\
 Here you will find me working on different projects covering:
 
 
+
+- React
 - Javacript
 - HTML
 - CSS
