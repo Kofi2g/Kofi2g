@@ -3,11 +3,10 @@ Greetings my name is Kofi, I am from London and I am currently studying and work
 Here you will find me working on different projects covering:
 
 
-
-- React
 - Javacript
 - HTML
 - CSS
+- CMS
 
 ---
 
