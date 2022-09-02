@@ -6,7 +6,6 @@ Here you will find me working on different projects covering:
 - Javacript
 - HTML
 - CSS
-- CMS
 
 ---
 
