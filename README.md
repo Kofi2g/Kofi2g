@@ -1,11 +1,16 @@
-### Welcome to my profile :first_quarter_moon: [Website](https://kofib.netlify.app/) 🌓 [Linkdin](https://www.linkedin.com/in/kofi/)
-Greetings my name is Kofi, I am from London and I am currently studying and working to become a developer.\
-Here you will find me working on different projects covering:
+### Welcome to my profile 🌓 [Linkdin](https://www.linkedin.com/in/kofi/)
+Greetings my name is Kofi welcome to my page \
+I mainly use:
 
-
+- Linux & Windows
 - Javacript
-- HTML
-- CSS
+
+I have some experience using:
+- C
+- C#
+- PHP
+- Python
+
 
 ---
 
