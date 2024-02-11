@@ -2,15 +2,12 @@
 Greetings my name is Kofi welcome to my page \
 I mainly use:
 
-- Linux & Windows
-- Javacript
+- Python & Javacript
 
 I have some experience using:
 - C
 - C#
 - PHP
-- Python
-
 
 ---
 
